@@ -1,2 +1,14 @@
 # image-to-text
-A project that attempts to convert images to text files using OCR and image processing.
+A project that aims to convert images to text files using OCR and image processing.
+
+<b>OCR engine used:</b> Tesseract
+
+<b>Libraries Used:</b> 
+
+1. NumPy
+
+2. SciPy
+                       
+3. Matplotlib
+
+4. PIL
