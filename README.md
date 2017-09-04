@@ -14,4 +14,6 @@ A project that aims to convert images to text files using OCR and image processi
 3. Matplotlib
 
 4. PIL
+
+5. cv2
  
