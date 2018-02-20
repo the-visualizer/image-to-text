@@ -1,5 +1,5 @@
 # image-to-text
-A project that aims to convert images to text files using OCR and image processing.
+This repository houses some of the code pieces used in our OCR project.
 
 <b>Python Version:</b> 3.5
 
